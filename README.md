@@ -1,9 +1,5 @@
 🎀Welcome to my GITHUB profile!🎀
-  ### const HelloFunction = () => {
-   console.log('Hi my name is PAULO GABRIEL!')
-  }
-  HelloFunction();
-
+    My name is PAULO GABRIEL
   
 <div>
   <a href="https://github.com/PauloGLemos">
